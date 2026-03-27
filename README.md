@@ -43,7 +43,7 @@ Student-Depression-Analysis/
 
 ### 📊 Overall Dashboard
 
-![Overall Dashboard](images/overall_dashboard.png)
+![Overall Dashboard](images/dashboard.png)
 
 ➡️ Provides a complete overview of all student mental health indicators in one place.
 
